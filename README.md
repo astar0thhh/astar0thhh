@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, fellow developers! 👋
 
-<!--
-**astar0thhh/astar0thhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anime Character Waving](https://media.tenor.com/AuBOgaPV41cAAAAM/shinya-shinyahiragi.gif)
 
-Here are some ideas to get you started:
+I'm Allen, a Computer Science student passionate about F1 and anime. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 I'm currently pursuing a degree in Computer Science.
+- 💻 My main programming languages are Java, Python, and C++.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 🏎️ I'm a huge Formula 1 fan and love watching the races.
+- 🎌 I'm also a big anime enthusiast and enjoy watching different anime series.
+
+## Connect with Me
+
+- [GitHub](https://github.com/astar0thhh)
+
+Don't forget to give a ⭐️ to any repositories you find interesting!
+
+Thanks for stopping by and happy coding! 🌟
