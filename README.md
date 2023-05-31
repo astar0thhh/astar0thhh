@@ -2,7 +2,7 @@
 
 ![Anime Character Waving](https://media.tenor.com/AuBOgaPV41cAAAAM/shinya-shinyahiragi.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi I'm Allen+19 years old+Computer Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF7C0&width=435&lines=Hi+I'm+Allen;19+years+old;Computer+Science)](https://git.io/typing-svg)
 
 I'm Allen, a Computer Science student passionate about F1 and anime. Welcome to my GitHub profile! 🚀
 
