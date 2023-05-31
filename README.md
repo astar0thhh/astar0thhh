@@ -7,7 +7,7 @@ I'm Allen, a Computer Science student passionate about F1 and anime. Welcome to 
 ## About Me
 
 - 🎓 I'm currently pursuing a degree in Computer Science.
-- 💻 My main programming languages are Java, Python, and C++.
+- 💻 My main programming languages is Java but I know a little bit of Python.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 🏎️ I'm a huge Formula 1 fan and love watching the races.
 - 🎌 I'm also a big anime enthusiast and enjoy watching different anime series.
